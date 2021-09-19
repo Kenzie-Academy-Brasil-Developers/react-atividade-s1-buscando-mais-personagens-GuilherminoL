@@ -1,0 +1,10 @@
+.character {
+  margin: 10px 0;
+  padding: 10px;
+}
+.deadCharacter {
+  background-color: red;
+}
+.aliveCharacter {
+  background-color: green;
+}

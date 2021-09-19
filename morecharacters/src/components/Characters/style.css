@@ -1,0 +1,7 @@
+.charactersList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  text-align: center;
+  list-style: none;
+}
